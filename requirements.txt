@@ -3,6 +3,5 @@ crewai>=0.200.0
 crewai-tools>=0.12.0
 langchain-openai>=0.1.0
 python-dotenv>=1.0.0
-
 # Optional: For enhanced search capabilities
 # serper-api>=0.1.0  # Uncomment if using SerperDevTool

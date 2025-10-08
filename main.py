@@ -39,7 +39,7 @@ writer = Agent(
     making complex tech topics interesting and easy to understand.""",
     verbose=True,
     allow_delegation=True,
-    # llm=ChatOpenAI(model_name="gpt-4", temperature=0.7),  # Uncomment and configure as needed
+    # llm=ChatOpenAI(model_name="gpt-4", temperature=0.7), # Uncomment and configure as needed
     max_iter=3,
     memory=True
 )
