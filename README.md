@@ -3,7 +3,6 @@
 > **A sophisticated multi-agent AI system that automatically researches the latest AI developments and generates professional content using CrewAI framework (2025 Edition)**
 
 [![CrewAI](https://img.shields.io/badge/CrewAI-v0.201.1+-blue.svg)](https://github.com/crewAIInc/crewAI)
-[![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Table of Contents
